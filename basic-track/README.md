@@ -52,7 +52,8 @@ In the repository's file structure, each **mission** includes:
 | Mission   | Status         |
 | --------- | -------------- |
 | Mission 1 | ✅ Completed   |
-| Mission 2 | 🚧 In Progress |
+| Mission 2 | ✅ Completed |
+| Mission 3 | 🚧 In Progress |
 
 ---
 
