@@ -19,6 +19,12 @@ The track is divided into **missions**, each consisting of multiple **modules**:
  ┃ ┣ 📂 module-3 : Object Oriented TypeScript
  ┃ ┣ 📂 module-4 : Assignment 1
  ┣ 📂 mission-2 : Be A Mongoose Master
+ ┃ ┣ 📂 module-5 : In-Depth Exploration of MongoDB Queries
+ ┃ ┣ 📂 module-6 : Mastering MongoDB Aggregation & Indexing
+ ┃ ┣ 📂 module-7 : Mastering The Foundation Of Express
+ ┃ ┣ 📂 module-8 : Mastering The Core Concepts of Mongoose
+ ┃ ┣ 📂 module-9 : Advanced CRUD with Express, Mongoose and TypeScript
+ ┃ ┣ 📂 module-10 : Assignment 2
  ┗ 📜 README.md
 ```
 
@@ -26,6 +32,7 @@ In the repository's file structure, each **mission** includes:
 
 - 📌 **Lecture Notes** – Summarized concepts from lessons.
 - 🧑‍💻 **Practice Codes** – Hands-on exercises for better understanding.
+- 📄 **Resources** - Provided PDF files and practice data.
 - 📝 **Assignments** – Evaluative tasks to assess knowledge.
 
 ---
@@ -35,6 +42,8 @@ In the repository's file structure, each **mission** includes:
 - **TypeScript Basics** – A statically typed superset of JavaScript.
 - **TypeScript Advanced Concepts** – Operators and Special Syntax, Interface vs Type Alias, Access Modifiers, and Static Members.
 - **Object-Oriented in TypeScript** – Inheritance, Abstraction, Encapsulation, and Polymorphism.
+- **MongoDB** – NoSQL Database, MongoDB Queries, Aggregation, and Indexing.
+- **Mongoose** – Object Data Modeling (ODM) library for MongoDB and Node.js.
 
 ---
 
