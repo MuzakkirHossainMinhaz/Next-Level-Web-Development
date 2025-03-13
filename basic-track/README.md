@@ -25,6 +25,13 @@ The track is divided into **missions**, each consisting of multiple **modules**:
  ┃ ┣ 📂 module-8 : Mastering The Core Concepts of Mongoose
  ┃ ┣ 📂 module-9 : Advanced CRUD with Express, Mongoose and TypeScript
  ┃ ┣ 📂 module-10 : Assignment 2
+ ┣ 📂 mission-3 : Be A NoSQL Backend Brainiac - 1
+ ┃ ┣ 📂 module-11 : Building PH University Management System Part-1
+ ┃ ┣ 📂 module-12 : Building PH University Management System Part-2
+ ┃ ┣ 📂 module-13 : Building PH University Management System Part-3
+ ┃ ┣ 📂 module-14 : Building PH University Management System Part-4
+ ┃ ┣ 📂 module-15 : Building PH University Management System Part-5
+ ┃ ┣ 📂 module-16 : Assignment 3
  ┗ 📜 README.md
 ```
 
@@ -52,8 +59,9 @@ In the repository's file structure, each **mission** includes:
 | Mission   | Status         |
 | --------- | -------------- |
 | Mission 1 | ✅ Completed   |
-| Mission 2 | ✅ Completed |
-| Mission 3 | 🚧 In Progress |
+| Mission 2 | ✅ Completed   |
+| Mission 3 | ✅ Completed   |
+| Mission 4 | 🚧 In Progress |
 
 ---
 
