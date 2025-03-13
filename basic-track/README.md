@@ -32,6 +32,13 @@ The track is divided into **missions**, each consisting of multiple **modules**:
  ┃ ┣ 📂 module-14 : Building PH University Management System Part-4
  ┃ ┣ 📂 module-15 : Building PH University Management System Part-5
  ┃ ┣ 📂 module-16 : Assignment 3
+ ┣ 📂 mission-4 : Be A NoSQL Backend Brainiac - 2
+ ┃ ┣ 📂 module-17 : Building Course Review Management System Part-6
+ ┃ ┣ 📂 module-18 : Building Course Review Management System Part-7
+ ┃ ┣ 📂 module-19 : Building Course Review Management System Part-8
+ ┃ ┣ 📂 module-20 : Building Course Review Management System Part-9
+ ┃ ┣ 📂 module-21 : Assignment 4
+ ┃ ┣ 📂 module-22 : Building Course Review Management System Part-10
  ┗ 📜 README.md
 ```
 
@@ -61,7 +68,7 @@ In the repository's file structure, each **mission** includes:
 | Mission 1 | ✅ Completed   |
 | Mission 2 | ✅ Completed   |
 | Mission 3 | ✅ Completed   |
-| Mission 4 | 🚧 In Progress |
+| Mission 4 | ✅ Completed   |
 
 ---
 
