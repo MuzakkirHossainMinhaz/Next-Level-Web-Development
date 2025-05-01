@@ -39,6 +39,9 @@ The track is divided into **missions**, each consisting of multiple **modules**:
  ┃ ┣ 📂 module-20 : Building Course Review Management System Part-9
  ┃ ┣ 📂 module-21 : Assignment 4
  ┃ ┣ 📂 module-22 : Building Course Review Management System Part-10
+ ┣ 📂 mission-5 : Skill Assessment & Quality Assurance
+ ┃ ┣ 📝 Assessment Quiz Challenge: Part-1
+ ┃ ┣ 📝 Assessment Quiz Challenge: Part-2
  ┗ 📜 README.md
 ```
 
