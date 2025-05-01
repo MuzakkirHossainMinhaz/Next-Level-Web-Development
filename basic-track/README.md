@@ -33,12 +33,12 @@ The track is divided into **missions**, each consisting of multiple **modules**:
  ┃ ┣ 📂 module-15 : Building PH University Management System Part-5
  ┃ ┣ 📂 module-16 : Assignment 3
  ┣ 📂 mission-4 : Be A NoSQL Backend Brainiac - 2
- ┃ ┣ 📂 module-17 : Building Course Review Management System Part-6
- ┃ ┣ 📂 module-18 : Building Course Review Management System Part-7
- ┃ ┣ 📂 module-19 : Building Course Review Management System Part-8
- ┃ ┣ 📂 module-20 : Building Course Review Management System Part-9
+ ┃ ┣ 📂 module-17 : Building PH University Management System Part-6
+ ┃ ┣ 📂 module-18 : Building PH University Management System Part-7
+ ┃ ┣ 📂 module-19 : Building PH University Management System Part-8
+ ┃ ┣ 📂 module-20 : Building PH University Management System Part-9
  ┃ ┣ 📂 module-21 : Assignment 4
- ┃ ┣ 📂 module-22 : Building Course Review Management System Part-10
+ ┃ ┣ 📂 module-22 : Building PH University Management System Part-10 (added later)
  ┣ 📂 mission-5 : Skill Assessment & Quality Assurance
  ┃ ┣ 📝 Assessment Quiz Challenge: Part-1
  ┃ ┣ 📝 Assessment Quiz Challenge: Part-2
