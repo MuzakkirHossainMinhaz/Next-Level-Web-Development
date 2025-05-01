@@ -72,6 +72,7 @@ In the repository's file structure, each **mission** includes:
 | Mission 2 | ✅ Completed   |
 | Mission 3 | ✅ Completed   |
 | Mission 4 | ✅ Completed   |
+| Mission 5 | ✅ Completed   |
 
 ---
 
