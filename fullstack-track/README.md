@@ -26,6 +26,8 @@ The track is organized into **missions**, each containing multiple **modules**:
  ┃ ┣ 📂 module-12 : PH University Management Frontend Part-6
  ┃ ┣ 📂 module-13 : PH University Management Frontend Part-7
  ┃ ┣ 📂 module-14 : Assignment 6
+ ┣ 📂 mission-7 : Be A RDBMS Rockstar
+ ┃ ┣ 📂 module-15 : Database Essentials & Relational Model
  ┗ 📜 README.md
 ```
 
@@ -51,11 +53,11 @@ Each **mission** in the repository includes:
 
 | Mission   | Status         |
 | --------- | -------------- |
-| Mission 6 | 🚧 In Progress |
-| Mission 7 | 🆕 Not Started |
+| Mission 6 | ✅ Completed   |
+| Mission 7 | 🚧 In Progress |
 | Mission 8 | 🆕 Not Started |
 | Mission 9 | 🆕 Not Started |
 
 ---
 
-This track prepares you for building production-ready full-stack applications and sets the foundation for advanced web development concepts. 🚀
+This track prepares for building production-ready full-stack applications and sets the foundation for advanced web development concepts. 🚀
