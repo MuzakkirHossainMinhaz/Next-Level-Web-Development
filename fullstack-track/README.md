@@ -28,6 +28,14 @@ The track is organized into **missions**, each containing multiple **modules**:
  ┃ ┣ 📂 module-14 : Assignment 6
  ┣ 📂 mission-7 : Be A RDBMS Rockstar
  ┃ ┣ 📂 module-15 : Database Essentials & Relational Model
+ ┃ ┣ 📂 module-16 : Database Normalization, Postgres Installation, and Application Insights
+ ┃ ┣ 📂 module-17 : PostgreSQL Essentials
+ ┃ ┣ 📂 module-18 : PostgreSQL Fundamentals and Advanced Data Manipulation Techniques
+ ┃ ┣ 📂 module-19 : Managing Dates, Relationships and Understanding JOIN in PostgreSQL
+ ┃ ┣ 📂 module-20 : Advanced Query Techniques and Database Objects in PostgreSQL
+ ┃ ┣ 📂 module-21 : Assignment 7
+ ┣ 📂 mission-8 : Be A SQL Backend Braniac with Prisma
+ ┃ ┣ 📂 module-22 : Prisma ORM Fundamentals
  ┗ 📜 README.md
 ```
 
@@ -54,8 +62,8 @@ Each **mission** in the repository includes:
 | Mission   | Status         |
 | --------- | -------------- |
 | Mission 6 | ✅ Completed   |
-| Mission 7 | 🚧 In Progress |
-| Mission 8 | 🆕 Not Started |
+| Mission 7 | ✅ Completed   |
+| Mission 8 | 🚧 In Progress |
 | Mission 9 | 🆕 Not Started |
 
 ---
