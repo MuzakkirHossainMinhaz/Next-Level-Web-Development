@@ -36,6 +36,15 @@ The track is organized into **missions**, each containing multiple **modules**:
  ┃ ┣ 📂 module-21 : Assignment 7
  ┣ 📂 mission-8 : Be A SQL Backend Braniac with Prisma
  ┃ ┣ 📂 module-22 : Prisma ORM Fundamentals
+ ┃ ┣ 📂 module-23 : Prisma Relational Mastery
+ ┃ ┣ 📂 module-24 : Prisma Advanced Patterns
+ ┃ ┣ 📂 module-25 : Start PH Health Care - Backend Project
+ ┃ ┣ 📂 module-31 : Assignment 8
+ ┣ 📂 mission-9 : Be A NextJS Ninja
+ ┃ ┣ 📂 module-39 : Fundamentals of NextJS
+ ┃ ┣ 📂 module-40 : NextJS Core Concepts Part-1
+ ┃ ┣ 📂 module-41 : NextJS Core Concepts Part-2
+ ┃ ┣ 📂 module-42 : NextJS Authentication System
  ┗ 📜 README.md
 ```
 
@@ -63,8 +72,8 @@ Each **mission** in the repository includes:
 | --------- | -------------- |
 | Mission 6 | ✅ Completed   |
 | Mission 7 | ✅ Completed   |
-| Mission 8 | 🚧 In Progress |
-| Mission 9 | 🆕 Not Started |
+| Mission 8 | ✅ Completed   |
+| Mission 9 | 🚧 In Progress |
 
 ---
 

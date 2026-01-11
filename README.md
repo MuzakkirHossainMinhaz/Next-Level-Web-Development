@@ -46,7 +46,7 @@ _For more details, visit the official course page: [Programming Hero Level 2](ht
 | Track           | Progress       |
 | --------------- | -------------- |
 | Basic Track     | ✅ Completed   |
-| Fullstack Track | 🚧 In Progress |
+| Fullstack Track | ✅ Completed   |
 | Frontend Track  | 🆕 Not Started |
 
 ---
