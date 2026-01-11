@@ -45,6 +45,8 @@ The track is organized into **missions**, each containing multiple **modules**:
  ┃ ┣ 📂 module-40 : NextJS Core Concepts Part-1
  ┃ ┣ 📂 module-41 : NextJS Core Concepts Part-2
  ┃ ┣ 📂 module-42 : NextJS Authentication System
+ ┃ ┣ 📂 module-43 : Start PH Health Care - Frontend Project
+ ┃ ┣ 📂 module-54 : Assignment 9
  ┗ 📜 README.md
 ```
 
@@ -68,12 +70,12 @@ Each **mission** in the repository includes:
 
 ## ✅ Completion Status
 
-| Mission   | Status         |
-| --------- | -------------- |
-| Mission 6 | ✅ Completed   |
-| Mission 7 | ✅ Completed   |
-| Mission 8 | ✅ Completed   |
-| Mission 9 | 🚧 In Progress |
+| Mission   | Status       |
+| --------- | ------------ |
+| Mission 6 | ✅ Completed |
+| Mission 7 | ✅ Completed |
+| Mission 8 | ✅ Completed |
+| Mission 9 | ✅ Completed |
 
 ---
 
