@@ -26,6 +26,7 @@ The track is organized into **missions**, each containing multiple **modules**:
  ┃ ┣ 📂 module-12 : PH University Management Frontend Part-6
  ┃ ┣ 📂 module-13 : PH University Management Frontend Part-7
  ┃ ┣ 📂 module-14 : Assignment 6
+ ┃
  ┣ 📂 mission-7 : Be A RDBMS Rockstar
  ┃ ┣ 📂 module-15 : Database Essentials & Relational Model
  ┃ ┣ 📂 module-16 : Database Normalization, Postgres Installation, and Application Insights
@@ -34,12 +35,14 @@ The track is organized into **missions**, each containing multiple **modules**:
  ┃ ┣ 📂 module-19 : Managing Dates, Relationships and Understanding JOIN in PostgreSQL
  ┃ ┣ 📂 module-20 : Advanced Query Techniques and Database Objects in PostgreSQL
  ┃ ┣ 📂 module-21 : Assignment 7
+ ┃
  ┣ 📂 mission-8 : Be A SQL Backend Braniac with Prisma
  ┃ ┣ 📂 module-22 : Prisma ORM Fundamentals
  ┃ ┣ 📂 module-23 : Prisma Relational Mastery
  ┃ ┣ 📂 module-24 : Prisma Advanced Patterns
  ┃ ┣ 📂 module-25 : Start PH Health Care - Backend Project
  ┃ ┣ 📂 module-31 : Assignment 8
+ ┃
  ┣ 📂 mission-9 : Be A NextJS Ninja
  ┃ ┣ 📂 module-39 : Fundamentals of NextJS
  ┃ ┣ 📂 module-40 : NextJS Core Concepts Part-1

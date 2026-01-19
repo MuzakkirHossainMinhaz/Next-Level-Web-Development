@@ -13,11 +13,13 @@ The track is divided into **missions**, each consisting of multiple **modules**:
  ┣ 📂 mission-0 : Welcome To Next Level Web Development 2.0
  ┃ ┣ 📂 module-0 : Welcome
  ┃ ┣ 📂 module-0.5 : Orientation Module
+ ┃
  ┣ 📂 mission-1 : Be A Typescript Technocrat
  ┃ ┣ 📂 module-1 : Explore Basic Types of TypeScript
  ┃ ┣ 📂 module-2 : Explore Advance Types of TypeScript
  ┃ ┣ 📂 module-3 : Object Oriented TypeScript
  ┃ ┣ 📂 module-4 : Assignment 1
+ ┃
  ┣ 📂 mission-2 : Be A Mongoose Master
  ┃ ┣ 📂 module-5 : In-Depth Exploration of MongoDB Queries
  ┃ ┣ 📂 module-6 : Mastering MongoDB Aggregation & Indexing
@@ -25,6 +27,7 @@ The track is divided into **missions**, each consisting of multiple **modules**:
  ┃ ┣ 📂 module-8 : Mastering The Core Concepts of Mongoose
  ┃ ┣ 📂 module-9 : Advanced CRUD with Express, Mongoose and TypeScript
  ┃ ┣ 📂 module-10 : Assignment 2
+ ┃
  ┣ 📂 mission-3 : Be A NoSQL Backend Brainiac - 1
  ┃ ┣ 📂 module-11 : Building PH University Management System Part-1
  ┃ ┣ 📂 module-12 : Building PH University Management System Part-2
@@ -32,6 +35,7 @@ The track is divided into **missions**, each consisting of multiple **modules**:
  ┃ ┣ 📂 module-14 : Building PH University Management System Part-4
  ┃ ┣ 📂 module-15 : Building PH University Management System Part-5
  ┃ ┣ 📂 module-16 : Assignment 3
+ ┃
  ┣ 📂 mission-4 : Be A NoSQL Backend Brainiac - 2
  ┃ ┣ 📂 module-17 : Building PH University Management System Part-6
  ┃ ┣ 📂 module-18 : Building PH University Management System Part-7
@@ -39,6 +43,7 @@ The track is divided into **missions**, each consisting of multiple **modules**:
  ┃ ┣ 📂 module-20 : Building PH University Management System Part-9
  ┃ ┣ 📂 module-21 : Assignment 4
  ┃ ┣ 📂 module-22 : Building PH University Management System Part-10 (added later)
+ ┃
  ┣ 📂 mission-5 : Skill Assessment & Quality Assurance
  ┃ ┣ 📝 Assessment Quiz Challenge: Part-1
  ┃ ┣ 📝 Assessment Quiz Challenge: Part-2

@@ -47,7 +47,7 @@ _For more details, visit the official course page: [Programming Hero Level 2](ht
 | --------------- | -------------- |
 | Basic Track     | ✅ Completed   |
 | Fullstack Track | ✅ Completed   |
-| Frontend Track  | 🆕 Not Started |
+| Frontend Track  | ⌛ In-Progress |
 
 ---
 
@@ -61,7 +61,7 @@ Programming Hero offers two batches each year for the Level 2 course. I am enrol
 
 This repository is a personal record of my learning journey. While I am not seeking contributions, you are welcome to fork this repository for your own learning purposes.
 
-This project is under the **MIT License**.
+This repository is under the **MIT License**.
 
 ---
 
